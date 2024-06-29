@@ -1,0 +1,340 @@
+{
+    "colegios": [
+      {
+        "nombre": "EI Martín de Gainza, Sevilla",
+        "coordenadas": [37.377215195125295, -5.962075383509393]
+      },
+      {
+        "nombre": "EI Toribio de Velasco, Sevilla",
+        "coordenadas": [37.3707116894, -5.952739841527316]
+      },
+      {
+        "nombre": "CEIP Jacarandá, Sevilla",
+        "coordenadas": [37.40314790361323, -5.922148656114739]
+      },
+      {
+        "nombre": "CEIP España, Sevilla",
+        "coordenadas": [37.379599877784095, -5.986706834573353]
+      },
+      {
+        "nombre": "CEIP Ortiz de Zúñiga, Sevilla",
+        "coordenadas": [37.37266112933029, -5.960974222222141]
+      },
+      {
+        "nombre": "CEIP Aníbal González, Sevilla",
+        "coordenadas": [37.3734182097503, -5.9738327632366595]
+      },
+      {
+        "nombre": "CEIP Prácticas, Sevilla",
+        "coordenadas": [37.379548026051346, -5.966893825371976]
+      },
+      {
+        "nombre": "CEIP Joaquín Turina, Sevilla",
+        "coordenadas": [37.37618894454221, -5.981031217700253]
+      },
+      {
+        "nombre": "CEIP San José de Calasanz, Sevilla",
+        "coordenadas": [37.374925285649155, -6.011042149524138]
+      },
+      {
+        "nombre": "CEIP Alfares, Sevilla",
+        "coordenadas": [37.37730553132781, -6.007689126662337]
+      },
+      {
+        "nombre": "CEIP Rico Cejudo, Sevilla",
+        "coordenadas": [37.381848908952826, -6.011578226514407]
+      },
+      {
+        "nombre": "CEIP Jorge Juan, Sevilla",
+        "coordenadas": [37.382009863318004, -5.949254851563749]
+      },
+      {
+        "nombre": "CEIP Poetas Andaluces, Dos Hermanas",
+        "coordenadas": [37.33659291812928, -5.930560760084645]
+      },
+      {
+        "nombre": "CEIP Rafael Alberti, Dos Hermanas",
+        "coordenadas": [37.338831035449374, -5.935492682860584]
+      },
+      {
+        "nombre": "CEIP Gloria Fuertes, Dos Hermanas",
+        "coordenadas": [37.34046711403643, -5.933532005411404]
+      },
+      {
+        "nombre": "CEIP Luis Cernuda, Dos Hermanas",
+        "coordenadas": [37.33346182837703, -5.922736714771566]
+      },
+      {
+        "nombre": "CEIP Ana María Matute, Dos Hermanas",
+        "coordenadas": [37.34917895011837, -5.933004396037638]
+      },
+      {
+        "nombre": "CEIP Miguel Hernández, Sevilla",
+        "coordenadas": [37.39488837142956, -5.960224635078633]
+      },
+      {
+        "nombre": "CEIP San Pablo, Sevilla",
+        "coordenadas": [37.391341564051395, -5.966694257889389]
+      },
+      {
+        "nombre": "CEIP José María del Campo, Sevilla",
+        "coordenadas": [37.38296631804533, -6.002441271961384]
+      },
+      {
+        "nombre": "CEIP Juan Ramón Jiménez, Sevilla",
+        "coordenadas": [37.37524094799643, -6.011006481361267]
+      },
+      {
+        "nombre": "CEIP San Jacinto, Sevilla",
+        "coordenadas": [37.38206359927014, -6.005057971943062]
+      },
+      {
+        "nombre": "CEIP Vara del Rey, Sevilla",
+        "coordenadas": [37.36847872391369, -6.0082236544248975]
+      },
+      {
+        "nombre": "CEIP Maestro José Fuentes, Sevilla",
+        "coordenadas": [37.39699011633771, -5.919792471415151]
+      },
+      {
+        "nombre": "CEIP Híspalis, Sevilla",
+        "coordenadas": [37.406826642069014, -5.944231361963787]
+      },
+      {
+        "nombre": "CEIP Isbilya, Sevilla",
+        "coordenadas": [37.40058487204296, -5.916077652784826]
+      },
+      {
+        "nombre": "CEIP Ángel Ganivet, Sevilla",
+        "coordenadas": [37.398067627859135, -5.938096403102726]
+      },
+      {
+        "nombre": "CEIP Azahares, Sevilla",
+        "coordenadas": [37.392457380935376, -5.915240971584389]
+      },
+      {
+        "nombre": "CEIP Tartessos, Sevilla",
+        "coordenadas": [37.39373242594814, -5.922577557816109]
+      },
+      {
+        "nombre": "CEIP Lope de Rueda, Sevilla",
+        "coordenadas": [37.40623889109002, -5.923445434606051]
+      },
+      {
+        "nombre": "CEIP Maestra Isabel Álvarez, Sevilla",
+        "coordenadas": [37.372535463222434, -5.9807298723214615]
+      },
+      {
+        "nombre": "CEIP Cristóbal Colón, Sevilla",
+        "coordenadas": [37.36861061878777, -5.973132117990336]
+      },
+      {
+        "nombre": "CEIP Fernán Caballero, Sevilla",
+        "coordenadas": [37.272860656273096, -5.907553964846917]
+      },
+      {
+        "nombre": "CEIP Pablo VI, Sevilla",
+        "coordenadas": [37.38008750957939, -5.9506382008935095]
+      },
+      {
+        "nombre": "CEIP Ntra. Sra. del Águila, Sevilla",
+        "coordenadas": [37.36880868916667, -5.952324485984]
+      },
+      {
+        "nombre": "CEIP Borbolla, Sevilla",
+        "coordenadas": [37.38694425369071, -5.9708094035554975]
+      },
+      {
+        "nombre": "CEIP Baltasar de Alcázar, Sevilla",
+        "coordenadas": [37.39648265822594, -5.9684771941377175]
+      },
+      {
+        "nombre": "CEIP Carmen Benítez, Sevilla",
+        "coordenadas": [37.39069491278475, -5.981827480704181]
+      },
+      {
+        "nombre": "CEIP Calvo Sotelo, Sevilla",
+        "coordenadas": [37.394069070738055, -5.979653903261587]
+      },
+      {
+        "nombre": "CEIP San Juan de Ribera, Sevilla",
+        "coordenadas": [37.401652381137836, -5.958294580290478]
+      },
+      {
+        "nombre": "CEIP Santa Clara, Sevilla",
+        "coordenadas": [37.40000767009874, -5.952703125793035]
+      },
+      {
+        "nombre": "CEIP La Raza, Sevilla",
+        "coordenadas": [37.35747511769422, -5.988212327503839]
+      },
+      {
+        "nombre": "CEIP Capitán General Julio Coloma Gallegos, Sevilla",
+        "coordenadas": [37.350911615421715, -5.972785089548934]
+      },
+      {
+        "nombre": "CEIP Juan Sebastián Elcano, Sevilla",
+        "coordenadas": [37.34786654085063, -5.978293779852603]
+      },
+      {
+        "nombre": "CEIP Al-Ándalus, Sevilla",
+        "coordenadas": [37.39868785657191, -5.974000825867103]
+      },
+      {
+        "nombre": "CEIP San Isidoro, Sevilla",
+        "coordenadas": [37.386562603984416, -5.990570217288318]
+      },
+      {
+        "nombre": "CEIP Jardines del Valle, Sevilla",
+        "coordenadas": [37.39244332884384, -5.984190872524886]
+      },
+      {
+        "nombre": "CEIP Sor Ángela de la Cruz, Sevilla",
+      "coordenadas": [37.398808568588024, -5.9838966712950095]
+    },
+    {
+      "nombre": "CEIP Huerta de Santa Marina, Sevilla",
+      "coordenadas": [37.39926917566883, -5.986709591778726]
+    },
+    {
+      "nombre": "CEIP Altos Colegios Macarena, Sevilla",
+      "coordenadas": [37.40294735295751, -5.992007127718226]
+    },
+    {
+      "nombre": "CEIP Blas Infante, Alcalá de Guadaíra",
+      "coordenadas": [37.341791924477455, -5.829408128072048]
+    },
+    {
+      "nombre": "CEIP Antonio Rodríguez Almodóvar, Alcalá de Guadaíra",
+      "coordenadas": [37.34364689311541, -5.8238588825395565]
+    },
+    {
+      "nombre": "CEIP Hermelinda Núñez, Alcalá de Guadaíra",
+      "coordenadas": [37.336225374847686, -5.841468719297347]
+    },
+    {
+      "nombre": "CEIP Silos, Alcalá de Guadaíra",
+      "coordenadas": [37.34011000048453, -5.851603541813133]
+    },
+    {
+      "nombre": "CEIP Puerta de Alcalá, Alcalá de Guadaíra",
+      "coordenadas": [37.340610655407325, -5.822283205373237]
+    },
+    {
+      "nombre": "CEIP Reina Fabiola, Alcalá de Guadaíra",
+      "coordenadas": [37.330280742784154, -5.835985128550457]
+    },
+    {
+      "nombre": "CEIP Escritor Alfonso Grosso, Sevilla",
+      "coordenadas": [37.40487482511626, -5.965540225567158]
+    },
+    {
+      "nombre": "CEIP Mariana de Pineda, Sevilla",
+      "coordenadas": [37.40503218702462, -5.965915993798011]
+    },
+    {
+      "nombre": "CEIP Pino Flores, Sevilla",
+      "coordenadas": [37.409242815293844, -5.971401325447741]
+    },
+    {
+      "nombre": "CEIP Juan de Mairena, Sevilla",
+      "coordenadas": [37.412002720493284, -5.965145879825005]
+    },
+    {
+      "nombre": "CEIP Ignacio Sánchez Mejías, Sevilla",
+      "coordenadas": [37.42299380403574, -5.969964293094951]
+    },
+    {
+      "nombre": "CEIP Pablo Ruiz Picasso, Sevilla",
+      "coordenadas": [37.419385132487605, -5.971164947725304]
+    },
+    {
+      "nombre": "CEIP María Zambrano, Sevilla",
+      "coordenadas": [37.422613462996544, -5.966145156711685]
+    },
+    {
+      "nombre": "CEIP Adriano, Sevilla",
+      "coordenadas": [37.424262003692974, -5.961896779370219]
+    },
+    {
+      "nombre": "CEIP Teodosio, Sevilla",
+      "coordenadas": [37.425254452665676, -5.96469867028102]
+    },
+    {
+      "nombre": "EI Julio César, Sevilla",
+      "coordenadas": [37.42112446882091, -5.961323093180074]
+    },
+    {
+      "nombre": "CEIP San Juan de Ribera, Sevilla",
+      "coordenadas": [37.401652381137836, -5.958294580290478]
+    },
+    {
+      "nombre": "CEIP Santa Clara, Sevilla",
+      "coordenadas": [37.40000767009874, -5.952703125793035]
+    },
+    {
+      "nombre": "CEIP La Raza, Sevilla",
+      "coordenadas": [37.35747511769422, -5.988212327503839]
+    },
+    {
+      "nombre": "CEIP Capitán General Julio Coloma Gallegos, Sevilla",
+      "coordenadas": [37.350911615421715, -5.972785089548934]
+    },
+    {
+      "nombre": "CEIP Juan Sebastián Elcano, Sevilla",
+      "coordenadas": [37.34786654085063, -5.978293779852603]
+    },
+    {
+      "nombre": "CEIP Al-Ándalus, Sevilla",
+      "coordenadas": [37.39868785657191, -5.974000825867103]
+    },
+    {
+      "nombre": "CEIP San Isidoro, Sevilla",
+      "coordenadas": [37.386562603984416, -5.990570217288318]
+    },
+    {
+      "nombre": "CEIP Jardines del Valle, Sevilla",
+      "coordenadas": [37.39244332884384, -5.984190872524886]
+    },
+    {
+      "nombre": "CEIP Arias Montano, Sevilla",
+      "coordenadas": [37.40417632208382, -5.980992382415721]
+    },
+    {
+      "nombre": "CEIP Pío XII, Sevilla",
+      "coordenadas": [37.40759756984164, -5.978022747760613]
+    },
+    {
+      "nombre": "EI Santa Catalina, Sevilla",
+      "coordenadas": [37.40635751392727, -5.975138980103191]
+    },
+    {
+      "nombre": "EI Argote de Molina, Sevilla",
+      "coordenadas": [37.4081141054169, -5.981315646836548]
+    },
+    {
+      "nombre": "CEIP Europa, Dos Hermanas",
+      "coordenadas": [37.33031428394077, -5.924935066083513]
+    },
+    {
+      "nombre": "CEIP Olivar de Quinto, Dos Hermanas",
+      "coordenadas": [37.325087797770216, -5.928133273261825]
+    },
+    {
+      "nombre": "CEIP 19 de Abril, Dos Hermanas",
+      "coordenadas": [37.28768013105777, -5.930137697815081]
+    },
+    {
+      "nombre": "CEIP Vicente Aleixandre, Dos Hermanas",
+      "coordenadas": [37.28292055953228, -5.931397767299279]
+    },
+    {
+      "nombre": "CEIP Carlos I, Dos Hermanas",
+      "coordenadas": [37.2794092422245, -5.926162496339496]
+    },
+    {
+      "nombre": "CEIP Cervantes, Dos Hermanas",
+      "coordenadas": [37.28332540737782, -5.929982175914359]
+    }
+  ]
+}
